@@ -1,3 +1,4 @@
+![Picture1](https://github.com/user-attachments/assets/ddaf0873-7b43-4a49-be72-8b1e656ed178)
 # AN-ANALYTICAL-REVIEW-OF-FRAUDULENT-E-TRANSACTIONS
 INTRODUCTION
 
