@@ -54,7 +54,8 @@ o Geographical patterns within North Michael, identifying areas with higher frau
 o Recurring patterns in transaction amounts or product types targeted.
 o Recognizing if there are any developing trends in fraud, such as a shift to new
 methods.
-• Significance: Understanding these patterns allows e-commerce platforms and
+• Significance: 
+Understanding these patterns allows e-commerce platforms and
 financial institutions in North Michael to anticipate and proactively prevent fraud.
 Determine High-Risk Payment Methods and Devices:
 This objective focuses on pinpointing which payment methods and devices are most
