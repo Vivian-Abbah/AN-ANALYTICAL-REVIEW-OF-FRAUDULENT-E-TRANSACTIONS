@@ -17,6 +17,9 @@ optimizing security protocols, and fostering a secure online environment conduci
 sustained e-commerce growth. By understanding the specific characteristics of fraudulent
 transactions in this market, we can collectively work towards mitigating risks and build a
 more resilient and trustworthy digital marketplace.
+
+![Picture1](https://github.com/user-attachments/assets/8f68b606-f3ec-40f7-b525-73a8ab52c55f)
+
 PURPOSE
 The rapid growth of e-commerce in Europe has opened new opportunities for businesses
 and consumers. However, with this expansion comes an increased risk of fraudulent
@@ -24,6 +27,7 @@ transactions that threaten financial security and trust in online platforms. Thi
 to provide a data-driven analysis of fraudulent e-commerce transactions in Europe,
 highlighting key trends, vulnerable points, and financial implications to aid in the
 development of effective fraud prevention strategies.
+
 OBJECTIVE OF THE PROJECT
 
 This project aims to identify patterns in fraudulent transactions within the European e-
